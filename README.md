@@ -1,10 +1,25 @@
+# Profile Card Project
 
-# React + Vite
+This project is a profile card created with React vite and Vanilla CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Dynamic profile card with live time.
+- Interactive social media links.
+- Beautiful UI with Vanilla CSS styling.
 
-Currently, two official plugins are available:
+## Screenshot
+![Profile Card Screenshot](mercyprofile.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Install `Node.js` and `Yarn`.
+
+### Installing
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mercie-ux/profile-card.git
