@@ -51,10 +51,10 @@ const ProfileCard = () => {
             <a href="https://github.com/mercie-ux" >
               Github
             </a>
-            <a href="#">
+            <a href="https://x.com/junearsenic7">
               Twitter
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/mercy-njeri-979201162/">
               LinkedIn
             </a>
           </div>
